@@ -1,5 +1,5 @@
 [README_footprint_validation.md](https://github.com/user-attachments/files/34771817/README_footprint_validation.md)
-# 🌿 Footprint-weighted validation of UAV TSEB in almond orchards
+# 🐾 Footprint-weighted validation of UAV TSEB in almond orchards
 
 **From eddy covariance (EC) footprint estimates to tower-representative TSEB fluxes and model evaluation**
 
